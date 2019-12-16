@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EDrop_Employee</string>
+    <string name="title_activity_main_menu_left_fragment">MainMenuLeftFragment</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="search">搜索</string>
+</resources>
